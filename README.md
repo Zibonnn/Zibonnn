@@ -1,16 +1,36 @@
-## Hi there 👋
+### 👋 Hi, I’m Khalid Hasan Zibon
 
-<!--
-**Zibonnn/Zibonnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Product Designer** | 🧠 UX Researcher | 🌐 Design + Sociology
 
-Here are some ideas to get you started:
+I’m a UX/Product Designer with 10+ years of experience crafting impactful digital products — especially in **AI, FinTech, and SaaS**. Former Lead Product Designer at Intelligent Machines, where I led UX for AI-powered solutions used by companies like **bKash**, **Unilever**, and **BATB**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I combine deep **user research** with systems thinking to design intuitive, scalable, and ethical digital experiences. Currently working on **side projects** in AI, media literacy, and screen tooling.
+
+---
+
+#### 🔬 My Work Intersects:
+- 🧠 Human-Centered Design  
+- 📊 Data Visualization & Dashboards  
+- 🤖 AI x UX  
+- 🧭 Ethical Tech & Disinformation  
+- 🧪 Sociology, Psychology & Design Research
+
+---
+
+#### 📌 Highlights:
+- 👨‍💻 12+ enterprise-grade AI/FinTech products launched  
+- 🧱 Created an in-house Design System to reduce design time by 50%  
+- 💬 Design Mentor
+- 🌱 Volunteer Design Consultant at Tree++, a carbon-offsetting nonprofit  
+
+---
+
+#### 🔗 Let’s Connect:
+- 🌐 Portfolio: [zibon.design](https://zibon.design)  
+- 🎨 Dribbble: [dribbble.com/Zibon](https://dribbble.com/Zibon)  
+- 🧠 Blog (in Bangla): [zibonthinks.framer.ai](https://zibonthinks.framer.ai)  
+
+---
+
+_“Cogito, ergo sum.”_
+
