@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Khalid Hasan Zibon
 
-🎯 **Product Designer** | 🧠 UX Researcher | 🌐 Design + Sociology
+🎯 **Product Designer** | 🧠 UX Researcher | 🌐 Design + AI + Psychology
 
 I’m a UX/Product Designer with 10+ years of experience crafting impactful digital products — especially in **AI, FinTech, and SaaS**. Former Lead Product Designer at Intelligent Machines, where I led UX for AI-powered solutions used by companies like **bKash**, **Unilever**, and **BATB**.
 
