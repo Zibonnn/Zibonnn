@@ -17,14 +17,6 @@ I combine deep **user research** with systems thinking to design intuitive, scal
 
 ---
 
-#### 📌 Highlights:
-- 👨‍💻 12+ enterprise-grade AI/FinTech products launched  
-- 🧱 Created an in-house Design System to reduce design time by 50%  
-- 💬 Design Mentor
-- 🌱 Volunteer Design Consultant at Tree++, a carbon-offsetting nonprofit  
-
----
-
 #### 🔗 Let’s Connect:
 - 🌐 Portfolio: [zibon.design](https://zibon.design)  
 - 🎨 Dribbble: [dribbble.com/Zibon](https://dribbble.com/Zibon)  
